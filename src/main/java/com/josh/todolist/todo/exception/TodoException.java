@@ -1,6 +1,5 @@
 package com.josh.todolist.todo.exception;
 
-import lombok.Getter;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.server.ResponseStatusException;
 
